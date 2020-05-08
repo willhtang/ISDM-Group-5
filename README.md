@@ -1,13 +1,13 @@
-# H1 Stakeholders
+#  Stakeholders
 
-## H2 Customer -S
+##  Customer -S
 
-## H2 Relationship Manager (RM)
+##  Relationship Manager (RM)
 
-## H2 Travel Company
+##  Travel Company
 
-## H2 Call Management Centre 
+##  Call Management Centre 
 
 
-# H1 Empathy Map
+#  Empathy Map
 
