@@ -1,6 +1,6 @@
 #  Stakeholders
 
-##  Customer -S
+##  Customer
 
 ##  Relationship Manager (RM)
 
