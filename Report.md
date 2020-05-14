@@ -9,7 +9,22 @@
 ###  Customer
 
 ###  Relationship Manager
-
+#### Who are we empathising with?
++ We are empathising with the employees of the CMC who receive the calls from customers.
+#### What do they need to do?
++ 
+#### What do they see?
++ 
+#### What do they say?
++ 
+#### What do they do?
++ 
+#### What do they hear?
++ 
+#### Pains?
++ 
+#### Gains?
++ 
 ###  Travel Company Director
 #### Who are we empathising with?
 + We are empathising with the director of a major travel company whom has requested for the development of the new system.
