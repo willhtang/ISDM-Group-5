@@ -10,21 +10,29 @@
 
 ###  Relationship Manager
 #### Who are we empathising with?
-+ We are empathising with the employees of the CMC who receive the calls from customers.
++ We are empathising with the Relational Managers (RM) who are responsible to perform the sales of holiday packages provided by the travel company. 
 #### What do they need to do?
-+ 
++ RM needs to have the product knowledge in order to improve call flow rate.
++ Have Good communication skills.
++ Provide potential-customers consultation.
 #### What do they see?
-+ 
++ Improved call flow rate.
++ Ability to adapt to new customers.
 #### What do they say?
-+ 
++ The RM will say work has been a lot easier now.
 #### What do they do?
-+ 
++ Have problems understanding the customers' needs.
++ Provide bad customer service skills due to lack of knowledge on the packages.
 #### What do they hear?
-+ 
++ Anger language from the customers.
++ Director's instruction on how to proceed. 
 #### Pains?
-+ 
++ Fail to achieve customer satisfaction.
++ Not be able to make product (holiday package) sales.
 #### Gains?
-+ 
++ Increase in product sales.
++ RMs work satisfaction since customers are satisfied.
++ Improvement in overall customer service skills. 
 ###  Travel Company Director
 #### Who are we empathising with?
 + We are empathising with the director of a major travel company whom has requested for the development of the new system.
