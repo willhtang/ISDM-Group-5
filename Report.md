@@ -111,10 +111,19 @@ RM are responsible for handling the interaction with the customers. They ensure 
 ### Automatic Call Distributor
 
 ## Point Of View (POV) Statements:
-
+### Relationship Manager (RM):
++ RM needs to have meaningful conversations with the potential customers because that will increase the sales of holiday packages. 
++ High Profiled RM needs the system to match them to customers with high scores because their profile demands potential customers.
++ RM needs clear knowledge of the holiday packages because customers need to be able to understand the holiday package. 
 
 ## How Might We (HMW) Statements:
-
+### Relationship Manager (RM):
++ How Might We teach RM to have meaningful conversations?
++ How Might We encourage RM to undertake friendly conversation?
++ How Might We make the system that allows us to facilitate customer and RM connection?
++ How Might We make recognizable potential customers to match RM?
++ How Might We encourage RM to get more knowledge on the holiday package?
++ How Might We provide customers sufficient knowledge using RM?
 
 ## Reflections:
 An analysis of the system requirements has led us to make few assumptions on the existing system and the new system. The tools that will be used in the new system such as Profiler Tool, Interactive Voice Response and Automatic Call Distributor are assumed to be compatible with the new system. The brainstorm concluded that the old system was inefficient and was causing a negative impact on the business total sales and therefore implementation of the new system is required. The following assumptions were considered:
