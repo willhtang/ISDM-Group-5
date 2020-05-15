@@ -125,6 +125,7 @@ An analysis of the system requirements has led us to make few assumptions on the
 + The proposed system is well within the range of budget and will not result in negative cash flow.
 + The Call Management Centre will have backup telephone providers if outages were to happen.
 + RM are able to accept whether the score is suitable for the certain customers. 
++ The score of the customer can be impacted by their lack of interest in the packages.
 
 
 ## Competitive Advantages And Possible Effects If The Project Fails:
