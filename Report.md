@@ -142,6 +142,7 @@ An analysis of the system requirements has led us to make few assumptions on the
 + The Call Management Centre will have backup telephone providers if outages were to happen.
 + RM are able to accept whether the score is suitable for the certain customers. 
 + The score of the customer can be impacted by their lack of interest in the packages.
++ Current system has led Travel company to be dominated by other competitors due to lack of sales it produced. 
 
 ## Use Case Diagram:
 #### User story:
