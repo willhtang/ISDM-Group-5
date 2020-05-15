@@ -136,6 +136,12 @@ An analysis of the system requirements has led us to make few assumptions on the
 + RM are able to accept whether the score is suitable for the certain customers. 
 + The score of the customer can be impacted by their lack of interest in the packages.
 
+## Use Case Diagram:
+#### User story:
++ Relationship Manager
 
+## Activity Diagram:
+## Class Diagram:
+## Collaborative Diagram:
 ## Competitive Advantages And Possible Effects If The Project Fails:
 
