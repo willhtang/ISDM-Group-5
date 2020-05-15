@@ -66,7 +66,10 @@ RM are responsible for handling the interaction with the customers. They ensure 
 + Increase in product sales.
 + RMs work satisfaction since customers are satisfied.
 + Improvement in overall customer service skills. 
+
+
 ###  Travel Company Director
+
 #### Who are we empathising with?
 + We are empathising with the director of a major travel company whom has requested for the development of the new system.
 + Currently the director has not seen an improvement in business operations and product sales.
@@ -86,23 +89,27 @@ RM are responsible for handling the interaction with the customers. They ensure 
 #### Gains?
 + The director would be hoping to increase the company's profit margin from increased sales as a result of the implementation of the new system.
 
-###  Call Management Centre Employee
+
+###  Technical Support Worker
+
 #### Who are we empathising with?
-+ We are empathising with the employees of the CMC who receive the calls from customers.
++ We are empathising with the technical support workers who maintain the system used by Relationship Managers.
 #### What do they need to do?
-+ 
++ When a new system is implemented, tech support workers need to be re-trained on the equipment/system functions in the new version of the system.
 #### What do they see?
-+ 
++ The tech support workers will see the behaviours of the server graphically over time to determine how the system is affected by usage.
 #### What do they say?
-+ 
++ Tech support workers will inform upper management of technical incidents that have arised, how they have been resolved, and what further actions are required.
 #### What do they do?
-+ 
++ Ensure system servers are operational during work hours.
 #### What do they hear?
-+ 
++ Tech support workers are hearing complaints from relationship managers about the reliability of the system consistently remaining functional during work hours without lag.
 #### Pains?
-+ 
++ Tech support workers will have concerns regarding the maintainability of the new system, difficulty of resolving technical issues.
++ They will be concerned of potential new unresolvable bugs in the new system.
 #### Gains?
-+ 
++ An improved functioning system will significantly relieve work load on tech support workers.
+
 
 ### Interactive Voice Response
 
@@ -139,15 +146,6 @@ An analysis of the system requirements has led us to make few assumptions on the
 ## Use Case Diagram:
 #### User story:
 + Relationship Manager
-
-As the RM, I want to be matched with customers comparable to my product knowledge so that I can offer the service they deserve.
-
-As the RM, I want to decide whether the score is suitable for the customer after the call session so that I can make sure the customer is receiving the required information about the holiday packages.
-
-As the RM, I want to be able to answer the 10 minutes questionnaire so that I can have a good profile to attain potential customers.
-
-As the RM, I want to be skillful in communication so that I can increase my profile and over all skills. 
-  
 
 ## Activity Diagram:
 ## Class Diagram:
