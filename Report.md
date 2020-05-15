@@ -7,6 +7,37 @@
 ##  Stakeholders
 
 ###  Customer
+#### Who are we empathising with?
++ Customers wanting to purchase holiday packages and save time while doing so.
++ They will be interacting with a Relationship Manager to find a suitable holiday
+package for them.
+#### What do they need to do?
++ Decide on their budget for the holiday.
++ Decide whether they want their holiday provided by a third party company or arrange it themselves.
+#### What do they see?
++ They might see better packages online if the holiday company's packages are not to their liking.
++ See friends or family out on their holidays.
+#### What do they say?
++ Ask about the holiday packages available.
++ What are the costs?
++ Is there insurance?
++ What is the cancellation policy?
+#### What do they do?
++ Call the travel company to discuss holiday packages.
++ Provide the relationship manager potential holiday destinations.
++ Call back the company after the initial consultation to ask further questions or confirm the holiday package.
+#### What do they hear?
++ News about the current state of affairs in their holiday destination.
++ Suggestions from friends on where to go for a holiday
++ Suggestions from friends on other companies they can go to for holiday packages
+#### Pains?
++ What if there's an issue while they're on holiday?
++	What if they don't have the budget for their ideal holiday?
++	Do they have the time for the holiday?
+#### Gains?
++ Experience a new country
++	Expand their worldview
++	To be able to spend time relaxing for themselves.
 
 ###  Relationship Manager
 #### Who are we empathising with?
