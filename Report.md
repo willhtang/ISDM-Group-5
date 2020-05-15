@@ -69,6 +69,7 @@ RM are responsible for handling the interaction with the customers. They ensure 
 
 
 ###  Travel Company Director
+The Travel Company director is responsible for making corporate decisions and investments in labour and technological resources to maximise the business' profit margins. The implementation of the new system is expected to improve efficiency in sales production and, thusly, increase profits.
 
 #### Who are we empathising with?
 + We are empathising with the director of a major travel company whom has requested for the development of the new system.
@@ -90,10 +91,11 @@ RM are responsible for handling the interaction with the customers. They ensure 
 + The director would be hoping to increase the company's profit margin from increased sales as a result of the implementation of the new system.
 
 
-###  Technical Support Worker
+###  Tech Support Worker
+Tech support workers are responsible for maintaining the information system used to efficiently control the flow of inbound and outbound telecommunications to relationship managers. The implementation of the new system is expected to reduce problems arising from dynamic control of telecommunications and routing customer calls to relationship managers.
 
 #### Who are we empathising with?
-+ We are empathising with the technical support workers who maintain the system used by Relationship Managers.
++ We are empathising with the tech support workers who maintain the system used by Relationship Managers.
 #### What do they need to do?
 + When a new system is implemented, tech support workers need to be re-trained on the equipment/system functions in the new version of the system.
 #### What do they see?
@@ -101,9 +103,9 @@ RM are responsible for handling the interaction with the customers. They ensure 
 #### What do they say?
 + Tech support workers will inform upper management of technical incidents that have arised, how they have been resolved, and what further actions are required.
 #### What do they do?
-+ Ensure system servers are operational during work hours.
++ Ensure system servers are operational during work hours and are distributed evenly.
 #### What do they hear?
-+ Tech support workers are hearing complaints from relationship managers about the reliability of the system consistently remaining functional during work hours without lag.
++ Tech support workers are hearing complaints about the old system giving some relationship managers more work than others.
 #### Pains?
 + Tech support workers will have concerns regarding the maintainability of the new system, difficulty of resolving technical issues.
 + They will be concerned of potential new unresolvable bugs in the new system.
@@ -121,7 +123,13 @@ RM are responsible for handling the interaction with the customers. They ensure 
 ### Relationship Manager (RM):
 + RMs needs to have meaningful conversations with the potential customers because that will increase the sales of holiday packages. 
 + High Profiled RMs needs the system to match them to customers with high scores because their profile demands potential customers.
-+ RMs needs clear knowledge of the holiday packages because customers need to be able to understand the holiday package. 
++ RMs needs clear knowledge of the holiday packages because customers need to be able to understand the holiday package.
+
+### Travel Company Director
++
+
+### Tech Support Worker
++
 
 ## How Might We (HMW) Statements:
 ### Relationship Manager (RM):
@@ -131,6 +139,17 @@ RM are responsible for handling the interaction with the customers. They ensure 
 + How Might We make recognizable potential customers to match RMs?
 + How Might We encourage RMs to get more knowledge on the holiday package?
 + How Might We provide customers sufficient knowledge using RM?s
+
+### Travel Company Director
++ How might we pitch the new system to the director?
++ How might we make the system more efficient?
++ How might we reduce costs in producing the new system?
++ How might we reduce the time required to create the system?
+
+### Tech Support Worker
++ How might we teach tech support workers how to maintain the system?
++ How might we make the system more maintainable by tech support workers?
++ How might we make the system so that it can be directly implemented over the old system without new equipment?
 
 ## Reflections:
 An analysis of the system requirements has led us to make few assumptions on the existing system and the new system. The tools that will be used in the new system such as Profiler Tool, Interactive Voice Response and Automatic Call Distributor are assumed to be compatible with the new system. The brainstorm concluded that the old system was inefficient and was causing a negative impact on the business total sales and therefore implementation of the new system is required. The following assumptions were considered:
