@@ -1,10 +1,10 @@
-## Objectives of the Project
+## Objectives of the Project:
 
 
-## Definition of the problem
+## Definition of the problem:
 
 
-##  Stakeholders
+##  Stakeholders:
 
 ###  Customer
 #### Who are we empathising with?
@@ -110,13 +110,13 @@ RM are responsible for handling the interaction with the customers. They ensure 
 
 ### Automatic Call Distributor
 
-## Point Of View (POV) Statements
+## Point Of View (POV) Statements:
 
 
-## How Might We (HMW) Statements
+## How Might We (HMW) Statements:
 
 
-## Reflections (300 words)
+## Reflections:
 An analysis of the system requirements has led us to make few assumptions on the existing system and the new system. The tools that will be used in the new system such as Profiler Tool, Interactive Voice Response and Automatic Call Distributor are assumed to be compatible with the new system. The brainstorm concluded that the old system was inefficient and was causing a negative impact on the business total sales and therefore implementation of the new system is required. The following assumptions were considered:
 
 + Data storage system capacity is sufficient for the implementation of the new system. 
@@ -127,6 +127,6 @@ An analysis of the system requirements has led us to make few assumptions on the
 + RM are able to accept whether the score is suitable for the certain customers. 
 
 
-## Competitive Advantages And Possible Effects If The Project Fails (500 Words)
+## Competitive Advantages And Possible Effects If The Project Fails:
 
 
