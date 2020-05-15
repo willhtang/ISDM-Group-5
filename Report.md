@@ -108,4 +108,15 @@ package for them.
 
 ### Automatic Call Distributor
 
-## Competitive Advantages and 
+## Point Of View (POV) Statements
+
+
+## How Might We (HMW) Statements
+
+
+## Reflections (300 words)
+
+
+## Competitive Advantages And Possible Effects If The Project Fails (500 Words)
+
+
