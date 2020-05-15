@@ -40,7 +40,7 @@ package for them.
 +	To be able to spend time relaxing for themselves.
 
 ###  Relationship Manager
-RM are responsible for handling the interaction with the customers. They ensure that sales of the holiday packages provided the company. The implementation of the new system will allow for adjustment of the call flow rate to suitable RM and thus be able to serve their end-customers (or potential customer).
+RM are responsible for handling the interaction with the customers. They ensure the profits by selling the holiday packages provided the company to customer via telephone call. The implementation of the new system will allow for adjustment of the call flow rate to suitable RM and thus be able to serve their end-customers (or potential customer).
 
 #### Who are we empathising with?
 + We are empathising with the Relational Managers (RM) who are responsible to perform the sales of holiday packages provided by the travel company. 
