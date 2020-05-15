@@ -117,6 +117,14 @@ RM are responsible for handling the interaction with the customers. They ensure 
 
 
 ## Reflections (300 words)
+An analysis of the system requirements has led us to make few assumptions on the existing system and the new system. The tools that will be used in the new system such as Profiler Tool, Interactive Voice Response and Automatic Call Distributor are assumed to be compatible with the new system. The brainstorm concluded that the old system was inefficient and was causing a negative impact on the business total sales and therefore implementation of the new system is required. The following assumptions were considered:
+
++ Data storage system capacity is sufficient for the implementation of the new system. 
++ Profiler Tool is capable of creating profiles with high volume usage of customers.
++ The old system consisted of manual data manipulation and was inconsistent, thereby resulting in heavy loss for the travel company.
++ The proposed system is well within the range of budget and will not result in negative cash flow.
++ The Call Management Centre will have backup telephone providers if outages were to happen.
++ RM are able to accept whether the score is suitable for the certain customers. 
 
 
 ## Competitive Advantages And Possible Effects If The Project Fails (500 Words)
