@@ -139,6 +139,7 @@ An analysis of the system requirements has led us to make few assumptions on the
 ## Use Case Diagram:
 #### User story:
 + Relationship Manager
+
 As the RM, I want to be matched with customers comparable to my product knowledge so that I can offer the service they deserve.
 
 As the RM, I want to decide whether the score is suitable for the customer after the call session so that I can make sure the customer is receiving the required information about the holiday packages.
