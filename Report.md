@@ -139,4 +139,3 @@ An analysis of the system requirements has led us to make few assumptions on the
 
 ## Competitive Advantages And Possible Effects If The Project Fails:
 
-
