@@ -113,6 +113,13 @@ Tech support workers are responsible for maintaining the information system used
 + An improved functioning system will significantly relieve work load on tech support workers.
 
 
+## Agile Development
+The agile process, in regards to software development, is a management methodology that centres around the principle of dividing a project into several subtasks and attempt to complete them in interative cycles (sprints) of elicitation, execution and evaluation. Due to the nature of being separated into smaller parts, the project can continuously evolve based on new client requirements, re-evaluations and the requirements of other stakeholders collaborating on the project.
+For this project, we have used the Scrum agile framework to manage the development of a new information system for improved operation in the 'Call Management Centre' of a major travel company. In accordance to the Scrum framework, we ordered the subtasks of developing the system's functionalities by priority, from the point of view of the client, into a product backlog.
+At the beginning of each sprint, we used the product backlog as a reference point to plan a progress target for completing system functionalities in that sprint. The progress during a short sprint, of a week, is reported to other members of the project team daily in a stand-up Scrum meeting of less than 15 minutes. The daily Scrum meetings encourage team members to talk about what they have completed, what they are planning on completing and obstacles they have faced in the completion of their tasks. This process allows all team members to understand the current situation and also allows the Scrum Master to better manage the work flow in the development of the information system.
+At the end of each sprint, we would conduct a sprint review. The sprint review is a meeting which takes place between the Scrum team and other stakeholders of this project. The functions completed during the sprint are presented to the other stakeholders and are reviewed for adaptations. In addition to the sprint review, a sprint retrospective is also conducted. In contrast to the sprint review, the sprint retrospective is an opportunity for the Scrum development team to discuss with the Scrum Master potential ways to improve technical practices in the development process.
+
+
 ### Interactive Voice Response
 
 ### Profiler Tool
