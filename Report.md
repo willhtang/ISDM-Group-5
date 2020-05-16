@@ -126,10 +126,12 @@ Tech support workers are responsible for maintaining the information system used
 + RMs needs clear knowledge of the holiday packages because customers need to be able to understand the holiday package.
 
 ### Travel Company Director
-+
++ The travel company director needs the system to be inexpensive because the system is an investment to improve current company profit margins.
++ The director needs the new system to be more efficient than the old one because the system was requested to quantitatively improve the company's sales.
 
 ### Tech Support Worker
-+
++ Tech support workers needs the new system to be directly implementable over the old system because it will be easier to maintain.
++ Tech support workers need the system to be quality assured because they will not be able to resolve unexpected errors in system functionality easily.
 
 ## How Might We (HMW) Statements:
 ### Relationship Manager (RM):
