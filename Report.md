@@ -112,6 +112,11 @@ Tech support workers are responsible for maintaining the information system used
 #### Gains?
 + An improved functioning system will significantly relieve work load on tech support workers.
 
+### Interactive Voice Response
+
+### Profiler Tool
+
+### Automatic Call Distributor
 
 ## Agile Development
 The agile process, in regards to software development, is a management methodology that centres around the principle of dividing a project into several subtasks and attempt to complete them in interative cycles (sprints) of elicitation, execution and evaluation. Due to the nature of being separated into smaller parts, the project can continuously evolve based on new client requirements, re-evaluations and the requirements of other stakeholders collaborating on the project.
@@ -121,13 +126,6 @@ For this project, we have used the Scrum agile framework to manage the developme
 At the beginning of each sprint, we used the product backlog as a reference point to plan a progress target for completing system functionalities in that sprint. The progress during a short sprint, of a week, is reported to other members of the project team daily in a stand-up Scrum meeting of less than 15 minutes. The daily Scrum meetings encourage team members to talk about what they have completed, what they are planning on completing and obstacles they have faced in the completion of their tasks. This process allows all team members to understand the current situation and also allows the Scrum Master to better manage the work flow in the development of the information system.
 
 At the end of each sprint, we would conduct a sprint review. The sprint review is a meeting which takes place between the Scrum team and other stakeholders of this project. The functions completed during the sprint are presented to the other stakeholders and are reviewed for adaptations. In addition to the sprint review, a sprint retrospective is also conducted. In contrast to the sprint review, the sprint retrospective is an opportunity for the Scrum development team to discuss with the Scrum Master potential ways to improve technical practices in the development process.
-
-
-### Interactive Voice Response
-
-### Profiler Tool
-
-### Automatic Call Distributor
 
 ## Point Of View (POV) Statements:
 ### Relationship Manager (RM):
@@ -175,8 +173,7 @@ An analysis of the system requirements has led us to make few assumptions on the
 + The score of the customer can be impacted by their lack of interest in the packages.
 + Current system has led Travel company to be dominated by other competitors due to lack of sales it produced. 
 
-## Use Case Diagram:
-#### User story:
+## User Stories:
 + Relationship Manager
 
 As the RM, I want to be matched with customers comparable to my product knowledge so that I can offer the service they deserve.
@@ -187,6 +184,7 @@ As the RM, I want to be able to answer the 10 minutes questionnaire so that I ca
 
 As the RM, I want to be skillful in communication so that I can increase my profile and over all skills. 
   
+## Use Case Diagram:
 
 ## Activity Diagram:
 ## Class Diagram:
