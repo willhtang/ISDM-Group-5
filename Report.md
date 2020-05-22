@@ -173,7 +173,7 @@ An analysis of the system requirements has led us to make few assumptions on the
 + The score of the customer can be impacted by their lack of interest in the packages.
 + Current system has led Travel company to be dominated by other competitors due to lack of sales it produced. 
 
-## User Stories:
+## Backlog:
 + Relationship Manager
 
 As the RM, I want to be matched with customers comparable to my product knowledge so that I can offer the service they deserve.
