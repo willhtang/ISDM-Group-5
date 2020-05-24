@@ -183,7 +183,22 @@ As the RM, I want to decide whether the score is suitable for the customer after
 As the RM, I want to be able to answer the 10 minutes questionnaire so that I can have a good profile to attain potential customers.
 
 As the RM, I want to be skillful in communication so that I can increase my profile and over all skills. 
-  
+
++ Travel Company Director
+
+As the director of the travel company, I want a more efficient information system than the existing information system so that RM productivity and sales volumes are maximised.
+
+As the director of the travel company, I need the new information system to be ready for implementation as soon as possible so that we gain an upperhand against competing firms in the same industry.
+
++ Tech Support Worker
+
+As a tech support worker, I want the new system to be compatible with existing equipment so that maintenance of the new system is easier to adapt to.
+
+As a tech support worker, I need the new system to be quality assured so that all bugs and errors in the system are fixable under minimal time constraints.
+
+As a tech support worker, I need the new system operational on any equipment so that it will remain functional even if old system equipment are replaced by new ones.
+
+
 ## Use Case Diagram:
 
 ## Activity Diagram:
