@@ -135,7 +135,14 @@ At the beginning of each sprint, we used the product backlog as a reference poin
 At the end of each sprint, we would conduct a sprint review. The sprint review is a meeting which takes place between the Scrum team and other stakeholders of this project. The functions completed during the sprint are presented to the other stakeholders and are reviewed for adaptations. In addition to the sprint review, a sprint retrospective is also conducted. In contrast to the sprint review, the sprint retrospective is an opportunity for the Scrum development team to discuss with the Scrum Master potential ways to improve technical practices in the development process.
 
 ## Point Of View (POV) Statements:
-### Relationship Manager (RM):
+
+### Customer
++ Customers need to be matched with suitable Relationship Managers to be able to have a good experience when purchasing their holiday package.
++ Customers need to have an idea in mind of what they would like when calling for a holiday package so that the Relationship Manager can better inform and help them choose a holiday package.
++ Customers need to be informed about how to handle potential contingencies such as cancellation of the holiday or what to do should they face issues while on their holiday.
++ Customers during busy periods should be informed that they are in a queue so that they can decide whether they want to continue in the queue or call back at a later time.
+
+### Relationship Manager (RM)
 + RMs needs to have meaningful conversations with the potential customers because that will increase the sales of holiday packages. 
 + High Profiled RMs needs the system to match them to customers with high scores because their profile demands potential customers.
 + RMs needs clear knowledge of the holiday packages because customers need to be able to understand the holiday package.
@@ -149,7 +156,7 @@ At the end of each sprint, we would conduct a sprint review. The sprint review i
 + Tech support workers need the system to be quality assured because they will not be able to resolve unexpected errors in system functionality easily.
 
 ## How Might We (HMW) Statements:
-### Relationship Manager (RM):
+### Relationship Manager (RM)
 + How Might We teach RMs to have meaningful conversations?
 + How Might We encourage RMs to undertake friendly conversation?
 + How Might We make the system that allows us to facilitate customer and RMs connection?
