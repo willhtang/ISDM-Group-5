@@ -13,6 +13,7 @@ The primary objective of the project is to help improve the call management cent
 ##  Stakeholders:
 
 ###  Customer
+Customers are individuals and/or groups who are looking to purchase a travel package from the travel company. Their primary interaction with the company is through telephone calls with a Relationship Manager that is specifically matched for them.
 #### Who are we empathising with?
 + Customers wanting to purchase holiday packages and save time while doing so.
 + They will be interacting with a Relationship Manager to find a suitable holiday
