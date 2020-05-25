@@ -156,6 +156,14 @@ At the end of each sprint, we would conduct a sprint review. The sprint review i
 + Tech support workers need the system to be quality assured because they will not be able to resolve unexpected errors in system functionality easily.
 
 ## How Might We (HMW) Statements:
+
+### Customers 
++ How might we speed up the time the customer spends with relationship managers?
++ How might we make our holiday packages more appealing to customers?
++ How might we better communicate with customers?
++ How might we make the process easier for customers?
++ How might we make customers repeated customers?
+
 ### Relationship Manager (RM)
 + How Might We teach RMs to have meaningful conversations?
 + How Might We encourage RMs to undertake friendly conversation?
