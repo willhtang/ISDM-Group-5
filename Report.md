@@ -4,6 +4,11 @@ The primary objective of the project is to help improve the call management cent
 
 ## Definition of the problem:
 
++ Lack of effective Relationship Managers can lead to ineffective communication with potential customers resulting in a reduction in travel packages sold, ultimately impacting the company’s bottom line.
+
++ Potential customers can be put off from buying a travel package due to long wait times during busy periods.
+
++ Prioritising repeated customers and customers more likely to purchase can over time detract from customer base as potential repeat customers are not matched to highly rated Relationship Managers.
 
 ##  Stakeholders:
 
