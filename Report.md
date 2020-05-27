@@ -200,31 +200,44 @@ An analysis of the system requirements has led us to make few assumptions on the
 + Customer
 
 As a customer I want fast queue times when calling the travel company so that I can book my holiday package.
+
 As a customer I want a profiler tool that matches me with the most suitable relationship manager.
+
 As a customer I want a relationship manager that is knowledgeable on holiday packages and travel destinations so that I can choose the best package for me.
+
 As a customer I want to choose a language to talk in so that I can communicate in a language most suitable to me. 
+
 As a customer I want to have a relationship manager that is patient and understanding so that I do not feel intimidated or pressured into buying a holiday package.
+
 As a customer I want to be told of my relationship manager’s details so that I can call them again for any follow ups.
+
 As a customer I want to be told of the travel company’s policies regarding cancellations so that if I want to cancel, I will know what the process is.
+
 As a customer I want to be able to notify the travel company’s system about whether I want to be notified of new packages so that I don’t receive unwanted calls.
 
 
 + Relationship Manager
 
 As the RM, I want to be matched with customers comparable to my product knowledge so that I can offer the service they deserve.
+
 As the RM, I want to decide whether the score is suitable for the customer after the call session so that I can make sure the customer is receiving the required information about the holiday packages.
+
 As the RM, I want to be able to answer the 10 minutes questionnaire so that I can have a good profile to attain potential customers.
+
 As the RM, I want to be skillful in communication so that I can increase my profile and over all skills. 
 
 + Travel Company Director
 
 As the director of the travel company, I want a more efficient information system than the existing information system so that RM productivity and sales volumes are maximised.
+
 As the director of the travel company, I need the new information system to be ready for implementation as soon as possible so that we gain an upperhand against competing firms in the same industry.
 
 + Tech Support Worker
 
 As a tech support worker, I want the new system to be compatible with existing equipment so that maintenance of the new system is easier to adapt to.
+
 As a tech support worker, I need the new system to be quality assured so that all bugs and errors in the system are fixable under minimal time constraints.
+
 As a tech support worker, I need the new system operational on any equipment so that it will remain functional even if old system equipment are replaced by new ones.
 
 
