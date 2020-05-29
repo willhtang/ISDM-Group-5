@@ -1,3 +1,4 @@
+## Table of Contents:
 - [Objectives of the Project:](#objectives-of-the-project)
 - [Definition of the problem:](#definition-of-the-problem)
 - [Stakeholders:](#stakeholders)
