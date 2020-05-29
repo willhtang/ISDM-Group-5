@@ -1,4 +1,4 @@
-- [Objectives of the Project:](##objectives-of-the-project-)
+[Objectives of the Project:](##objectives-of-the-project-)
 - [Definition of the problem:](#definition-of-the-problem-)
 - [Stakeholders:](#stakeholders-)
   * [Customer](#customer)
