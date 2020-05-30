@@ -1,4 +1,5 @@
 ## Table of Contents:
+- [Executive Summary](#executive-summary)
 - [Objectives of the Project:](#objectives-of-the-project)
 - [Definition of the problem:](#definition-of-the-problem)
 - [Stakeholders:](#stakeholders)
@@ -27,6 +28,15 @@
 - [Class Diagram:](#class-diagram)
 - [Collaboration Diagram:](#collaboration-diagram)
 - [Competitive Advantages And Possible Effects If The Project Fails:](#competitive-advantages-and-possible-effects-if-the-project-fails)
+
+## Executive Summary
+
+This report details the new information system developed for a major travel company and its call management centre (CMC) in particular. 
+The report begins in introducing its objectives and definition of the problem to be solved. This stage of the project is crucial as it is through the clear definition of the objectives and the problem, that gives the team clear direction and structure as to what needs to be addressed in the project.
+
+Moreover, it goes through the approach made through Design Thinking principles. Design Thinking allows us to keep an end-user centred focus to all the decisions and assumptions made in the project. Furthermore, through the identification of stakeholders, we were able to determine their user stories, point of view statements and how might we statements to better understand assist them in the new information system developed. 
+
+Additionally, the report details the work products and models that were created to visualize and document how the new system is to function. These included a use case diagram, activity diagram, class diagram and collaboration diagram. Additionally, the report also identifies the advantages of the new system, such as increased efficiency in their day to day operations leading to increased revenue and overall profit as well as potential consequences if the new system fails to meet it’s criteria such as loss of revenue, customer base and decreased competitiveness as a business.
 
 
 ## Objectives of the Project:
