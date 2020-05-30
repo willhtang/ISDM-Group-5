@@ -232,6 +232,9 @@ An analysis of the system requirements has led us to make few assumptions on the
 </p>
 
 ## Use Case Diagram:
+<p align="center">
+  <img src="https://github.com/willhtang/ISDM-Group-5/blob/master/images/usecase-diagram%20v2.png" alt="Use Case Diagram"/>
+</p>
 
 ## Activity Diagram:
 ## Class Diagram:
