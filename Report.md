@@ -31,7 +31,7 @@
 
 ## Objectives of the Project:
 
-The primary objective of the project is to help improve the call management centre of the travel company who commissioned the project. As this is a crucial component of the business, it is vital to carefully consider what changes need to occur and the potential benefits and/or ramifications of implementing them. The business has explicitly noted that the new system will need to be able to improve the relationship manager customer matching process through the adjustment of the call flow rate whereby the relationship manager most suited to that particular customer is selected. Another objective is to improve the outbound calls process, by actively engaging the customer in order to generate more sales. Overall, through the completion of these objectives, the company will be able to generate more sales leading to greater profit and a wider customer base. 
+The primary objective of the project is to help improve the call management centre of the travel company who commissioned the project. As this is a crucial component of the business, it is vital to carefully consider what changes need to occur and the potential benefits and/or ramifications of implementing them. The business has explicitly noted that the new system will need to be able to improve the relationship manager customer matching process through the adjustment of the call flow rate whereby the relationship manager most suited to that particular customer is selected. Overall, through the completion of these objectives, the company will be able to generate more sales leading to greater profit and a wider customer base. 
 
 ## Definition of the problem:
 
