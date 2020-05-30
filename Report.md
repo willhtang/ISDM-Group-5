@@ -25,7 +25,7 @@
 - [Use Case Diagram:](#use-case-diagram)
 - [Activity Diagram:](#activity-diagram)
 - [Class Diagram:](#class-diagram)
-- [Collaborative Diagram:](#collaborative-diagram)
+- [Collaboration Diagram:](#collaboration-diagram)
 - [Competitive Advantages And Possible Effects If The Project Fails:](#competitive-advantages-and-possible-effects-if-the-project-fails)
 
 
@@ -237,12 +237,19 @@ An analysis of the system requirements has led us to make few assumptions on the
 </p>
 
 ## Activity Diagram:
+<p align="center">
+  <img src="https://github.com/willhtang/ISDM-Group-5/blob/master/images/Activity%20diagram.png" alt="Activity Diagram"/>
+</p>
+
 ## Class Diagram:
 <p align="center">
   <img src="https://github.com/willhtang/ISDM-Group-5/blob/master/images/Class%20Diag%20-%20ISDM.png" alt="Class Diagram"/>
 </p>
 
-## Collaborative Diagram:
+## Collaboration Diagram:
+<p align="center">
+  <img src="https://github.com/willhtang/ISDM-Group-5/blob/master/images/Collaboration%20Diagram.png" alt="Collaboration Diagram"/>
+</p>
 
 ## Competitive Advantages And Possible Effects If The Project Fails:
 Competitive advantage is circumstances where the company is put in a favourable position than its competitors involved. New system is developed for the Travel Company to reach its sales goals. The implementation of the new system will ensure an efficient process in the call route system for the call management centre. The new system will match customers with RMs based on their profiles and score. The previous system or the current system has led Travel Company to be dominated by other competitors due to inefficiency in the process of data manipulation and matchmaking. With the implementation of the proposed system, the Travel Company will prospect for profit. The matchmaking system  with assistance from Profiler Tool will guarantee an increase in customer satisfaction as the RMs are able to provide the maximum support and information required for the customers. The new system includes a score system which will increase customers' interest in the company. Customers would want to increase their scores by reducing the call duration in phone calls in order to be served with priorities as high score served first rules apply and with private automatic branch exchange to route calls will decrease the customer’s per-call handling time by a comparable amount and therefore being a cost effective technique . 
