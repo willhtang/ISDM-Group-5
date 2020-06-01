@@ -2,6 +2,7 @@
 - [Executive Summary](#executive-summary)
 - [Objectives of the Project:](#objectives-of-the-project)
 - [Definition of the problem:](#definition-of-the-problem)
+- [Design Thinking:](#design-thinking)
 - [Stakeholders:](#stakeholders)
   * [Customer](#customer)
   * [Relationship Manager](#relationship-manager)
@@ -50,6 +51,14 @@ The primary objective of the project is to help improve the call management cent
 + Potential customers can be put off from buying a travel package due to long wait times during busy periods.
 
 + Prioritising repeated customers and customers more likely to purchase can over time detract from customer base as potential repeat customers are not matched to highly rated Relationship Managers.
+
+
+## Design Thinking
+
+Design thinking is based upon nurturing customer-centric product innovation. This essentially means, that the design process actively thinks and focuses about the end users and customers when planning and building the project and how best to satisfy their needs. 
+
+The first stage starts of this process as we empathise with our end users and customers. This stage helped us understand the beliefs and feelings of those we are designing for. We carried out making empathy maps for all our stakeholders in order to elicit what their real needs are. In the second stage we identified and defined the problems we had to solve, the empathy maps that were already present helped us to further pinpoint what our information system had to solve. Then during the ideate stage we brainstormed potential solutions and noted down whether they were feasible to do. In the prototype stage we went through a few iterations of what we wanted to achieve, but due to the lack of time we weren’t able to complete many prototypes. Finally we went into the testing stage and implemented our chosen design.
+
 
 ##  Stakeholders:
 
