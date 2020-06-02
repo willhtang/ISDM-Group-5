@@ -29,6 +29,7 @@
 - [Class Diagram:](#class-diagram)
 - [Collaboration Diagram:](#collaboration-diagram)
 - [Competitive Advantages And Possible Effects If The Project Fails:](#competitive-advantages-and-possible-effects-if-the-project-fails)
+- [YouTube Presentation Video:](#youtube-presentation-video)
 
 ## Executive Summary
 
@@ -277,3 +278,9 @@ Competitive advantage is a huge factor in constraining the profits and should be
 
 If  the system were to fail that will result in complete failure in the call routing and will result in customer dissatisfaction. A system failure occurs if the system does not meet the requirement or when the usage of the system leads to malfunction. It may even occur due to power outage or if the system cannot handle the data transaction.  In order to combat this, multiple solutions must be implemented along with the proposed system. First solution that can be used in the implementation phase is the usage of the implementation methods.  For example, using parallel implementation to ensure that the new system is functioning as intended and no memory leakage is found for first few weeks and then direct change to the new system. Second solution is backing up the data in the information system so even if the system were to fail, it can be recovered and functional. Another solution might be continuous update to the information system to handle high volume of new customers and the existing customers.  By having these planned solutions, the system can be protected and will maintain a sustainable reputation in the competitive field. 
 
+## YouTube Presentation Video
+<div class="center" >
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ocOLg8o56EI
+" target="_blank"><img src="http://img.youtube.com/vi/ocOLg8o56EI/0.jpg" 
+alt="YouTube Presentation Video" width="1280" height="720" border="10" /></a>
+ <div>
